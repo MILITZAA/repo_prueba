@@ -1,1 +1,2 @@
 Esto es plano primera linea de prueba
+Esto es la linea 2 de prueba
